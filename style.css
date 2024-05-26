@@ -90,6 +90,9 @@ a {
 }
 #pixel-art-container .cell:nth-child(12) {
     background-image: linear-gradient(green, pink);
+
+#pixel-art-container .cell:nth-child(45) {
+    background-color: green;
 }
 /* test */
 /* Add more colors for other cells as needed */
