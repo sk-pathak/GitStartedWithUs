@@ -85,6 +85,12 @@ a {
 #pixel-art-container .cell:nth-child(10) {
     background-color: black;
 }
+#pixel-art-container .cell:nth-child(11) {
+    background-image: linear-gradient(red, blue);
+}
+#pixel-art-container .cell:nth-child(12) {
+    background-image: linear-gradient(green, pink);
+
 #pixel-art-container .cell:nth-child(45) {
     background-color: green;
 }
